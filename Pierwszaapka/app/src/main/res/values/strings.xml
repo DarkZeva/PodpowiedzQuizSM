@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pierwszaapka</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Nastepne</string>
+
+    <string name="q_activity">Activity jest jednym z komponentów aplikacji android</string>
+    <string name="q_version">Android 8 jest najnowszą wersją androida</string>
+    <string name="q_szkolna">Szkolna 17 znajduje sie w warszawie?</string>
+    <string name="q_comparission">5 to wiecej niz 2</string>
+    <string name="q_guitar">Gitara to instrument strunowy</string>
+    <string name="correct_answer">Odpowiedz prawidlowa</string>
+    <string name="incorrect_answer">Odpowiedz nieprawidlowa</string>
+</resources>

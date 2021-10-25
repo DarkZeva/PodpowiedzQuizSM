@@ -11,4 +11,5 @@
     <string name="q_guitar">Gitara to instrument strunowy</string>
     <string name="correct_answer">Odpowiedz prawidlowa</string>
     <string name="incorrect_answer">Odpowiedz nieprawidlowa</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była wyświetlona.</string>
 </resources>
